@@ -21,9 +21,13 @@ Please always create a README and a license file for your repository! In the REA
 
 **Congratulation your repository is now created!**
 
-## Add/change a Social Preview Picture to a Repository
+----
+
+## Add/change a Social Preview image to the repository
+
 In your repository, you should start by uploading an image and entering a small description. So that people can recognize your repository better.
 
+![upload repo image](images/github-repo-upload-repo-image.png)
 
 
 ## Upload images to Repo
