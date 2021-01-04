@@ -5,7 +5,7 @@ Here you will find everything you need to get started with Github.
 ## Content
 
 ### Github Account
-- [How to Create a GitHub Account](github-account/create)
+- [How to Create a GitHub Account](github-account#create-a-github-account)
 - [How to go to your Profile to share with others how to find you](github-account/profile)
 
 ### Repository
