@@ -6,3 +6,5 @@ This information and support ranges from but not limited to the following
 3. Using issues for communicating tasks.
 4. Handling merges and merges conflicts.
 5. Mastering other collaboration features of the platform
+
+[Go to the guides](https://asknet-open-training.github.io/Github-Guidance/Home)
