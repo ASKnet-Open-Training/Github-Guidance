@@ -1,3 +1,42 @@
+# Github Repository
+
+## Explaining a repository
+### Navigation in short words
+
+How to navigate inside a repository
+
+![navigation of the repository](images/github-repo-navigation.png)
+
+| Navigation    | Description |
+| ------------- | ----------- |
+| Breadcrump    | Organisation/Repository Menu |
+| Code          | See/upload/edit all content/files/folders insight a repository |
+| Issues        | See/create issues |
+| Pull requests | When someone wants to send a change to the repository, they do so via a pull request. The changes can be accepted or rejected. |
+| ~~Actions~~   |  |
+| Wiki          | If a readme file is not sufficient for the description or help for the repository, then a wiki with different pages can be created. |
+| ~~Projects~~  |  |
+| ~~Security~~  |  |
+| ~~Insights~~  |  |
+| Settings      | All settings for the repository can be made here. (e.g. Name of the repository, Description, [Social Preview image](#addchange-a-social-preview-picture-to-a-repository) or Access) |
+
+### Short introduction about the sidebar
+
+| Points to explain | Screenshot |
+| ----------------- | ---------- |
+| **About:** It's important to write a short description about the project and you can put links and tags in it.<br />**Readme:** Link to the Readme file<br />**License:** Link to license file<br />**Releases:** If your content of your repository has different versions. It called releases (e.g. v.0.1 or v.1.0)<br />**~~Packages~~**<br />**Contributers:** All accounts that have write access to the repository | ![sidebar of the repository](images/github-repo-sidebar.png) |
+
+### File explorer
+
+![file explorer of the repository](images/github-repo-file-explorer.png)
+
+<p style="color:yellow">The user how commit the last changes and a short commit message</p>
+<p style="color:green">Here you can see the number of changes/commits and view the history</p>
+<p style="color:red">Here goes the commit message</p>
+<p style="color:blue">All files and folders in this repository (you cannot make folders over the webinterface!)</p>
+
+----
+
 ## Create Github repository
 You can see in the upper right corner a + symbol. There you can create your own repository.
 
