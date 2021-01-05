@@ -16,7 +16,6 @@
 title: Github-Guidance
 description: A Jekyll theme for documentation
 baseurl: "/Github-Guidance" # the subpath of your site, e.g. /blog
-theme: just-the-docs
 url: "https://asknet-open-training.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
