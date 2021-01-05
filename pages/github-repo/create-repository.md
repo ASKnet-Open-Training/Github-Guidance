@@ -11,13 +11,13 @@ You can see in the upper right corner a + symbol. There you can create your own 
 1. TOC
 {:toc}
 
-![Create new Github repository](/assets/images/github-repo-create-new-repo.png)
+![Create new Github repository]({{ 'assets/images/github-repo-create-new-repo.png' | relative_url }})
 
 ## Name and owner of the repository
 
 On the next page you should give your new repository a <span style="color:red;">name</span> and specify <span style="color:blue;">who should own the repository</span>. Either your own account or an organization.
 
-![Choose name, owner and publicity of the repository](/assets/images/github-repo-create-new-repo-2.png)
+![Choose name, owner and publicity of the repository]({{ 'assets/images/github-repo-create-new-repo-2.png' | relative_url }})
 
 ## Public or Private?
 

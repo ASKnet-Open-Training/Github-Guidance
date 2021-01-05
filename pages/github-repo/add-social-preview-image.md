@@ -10,4 +10,4 @@ You can see in the upper right corner a + symbol. There you can create your own 
 
 In your repository, you should start by uploading an image and entering a small description. So that people can recognize your repository better.
 
-![upload repo image](/assets/images/github-repo-upload-repo-image.png)
+![upload repo image]({{ 'assets/images/github-repo-upload-repo-image.png' | relative_url }})

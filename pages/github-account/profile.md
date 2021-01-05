@@ -15,4 +15,4 @@ You can reach your own profile by clicking on your profile picture in the upper 
 
 There you also have the possibility to upload a profile picture. That makes the world more colorful ;)
 
-![Go to your own Github profile](/assets/images/github-account-profile.gif)
+![Go to your own Github profile]({{ 'assets/images/github-account-profile.gif' | relative_url }})

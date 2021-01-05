@@ -12,7 +12,7 @@ The readme is automaticly parsed as html page and it's under the [file explorer]
 
 <p style="color:red;">Here you can edit the readme</p>
 
-![Edit Readme](/assets/images/github-repo-edit-readme.png)
+![Edit Readme]({{ 'assets/images/github-repo-edit-readme.png' | relative_url }})
 
 **Tip:** To edit a markdown you can [have a look to the syntax](github-markdown)
 
