@@ -35,4 +35,4 @@ On the next page you should give your new repository a <span style="color:red;">
 
 ----
 
-[Give your new repository a personal touch](/pages/github-repo/add-social-preview-image){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Give us Feedback](https://github.com/ASKnet-Open-Training/Github-Guidance/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Give your new repository a personal touch](/pages/github-repo/add-social-preview-image){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Give us Feedback]({{ site.github.repository_url }}/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 }

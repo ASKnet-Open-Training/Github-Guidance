@@ -16,4 +16,4 @@ The readme is automaticly parsed as html page and it's under the [file explorer]
 
 **Tip:** To edit a markdown you can [have a look to the syntax](github-markdown)
 
-[Save a file in a repository (commit)](/pages/github-repo/file-save){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Give us Feedback](https://github.com/ASKnet-Open-Training/Github-Guidance/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Save a file in a repository (commit)]({{ '/pages/github-repo/file-save' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Give us Feedback]({{ site.github.repository_url }}/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 }

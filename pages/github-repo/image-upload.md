@@ -11,4 +11,4 @@ To upload an image or PDF file, first go to the File Explorer (home page) of you
 
 ![Upload an image]({{ 'assets/images/github-repo-upload-image.png' | relative_url }})
 
-An image or PDF file must also (like everything) be saved with a commit. Here it is again important to find a meaningful title (see ["Save a file in a repository (commit)"](save-a-file-in-a-repositorycommit)).
+An image or PDF file must also (like everything) be saved with a commit. Here it is again important to find a meaningful title (see ["Save a file in a repository (commit)"]({{ '/pages/github-repo/file-save' | relative_url }})).

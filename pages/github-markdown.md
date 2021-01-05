@@ -10,4 +10,4 @@ permalink: /markdown
 
 This guide is meant to introduce you to Github as easily as possible. By the way, this guide is also based on a Github repository ;)
 
-[take online workshop for Markdown](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Give us Feedback](https://github.com/ASKnet-Open-Training/Github-Guidance/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 }
+[take online workshop for Markdown](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Give us Feedback]({{ site.github.repository_url }}/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 }

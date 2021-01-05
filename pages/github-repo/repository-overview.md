@@ -27,7 +27,7 @@ How to navigate inside a repository
 | ~~Projects~~  |  |
 | ~~Security~~  |  |
 | ~~Insights~~  |  |
-| Settings      | All settings for the repository can be made here. (e.g. Name of the repository, Description, [Social Preview image](#addchange-a-social-preview-picture-to-a-repository) or Access) |
+| Settings      | All settings for the repository can be made here. (e.g. Name of the repository, Description, [Social Preview image]({{ '/pages/github-repo/add-social-preview-image' | relative_url }}) or Access) |
 
 ## Short introduction about the sidebar
 
@@ -46,4 +46,4 @@ How to navigate inside a repository
 | <span style="display:block; width:60px; height:15px; background-color:red"></span> | Here goes the commit message |
 | <span style="display:block; width:60px; height:15px; background-color:blue"></span> | The name of files and folders in this repository (you cannot make folders over the webinterface!) |
 
-[Create your first repository](/pages/github-repo/create-repository){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Give us Feedback](https://github.com/ASKnet-Open-Training/Github-Guidance/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Create your first repository]({{ '/pages/github-repo/create-repository' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Give us Feedback]({{ site.github.repository_url }}/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 }
