@@ -11,7 +11,7 @@ You can see in the upper right corner a + symbol. There you can create your own 
 1. TOC
 {:toc}
 
-![Create new Github repository](assets/images/github-repo-create-new-repo.png)
+![Create new Github repository]({{ site.url }}/assets/images/github-repo-create-new-repo.png)
 
 ## Name and owner of the repository
 
