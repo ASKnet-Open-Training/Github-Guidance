@@ -28,7 +28,7 @@ If you would like to help extending the guide, feel free to fork [the repository
 
 ## First of all: What is Github?
 
-Github is a platform where you can document your ideas, projects and share the knowledge with others. Also, the Github provides a task management where you can collect and distribute your tasks.
+Github is a platform where you can document your ideas/projects and share the knowledge with others. Also, the Github provides a task management where you can collect and distribute your tasks.
 
 The content (text, images, PDF or other file types) is stored in a [repository](pages/github-repo). The technology behind this is called [Git](https://en.wikipedia.org/wiki/Git). Everything that is stored in a repository is also automatically versioned. Saving a file is called [commit](https://en.wikipedia.org/wiki/Commit_(version_control)). Git remembers every commit and it is very easy to track what has been changed since the last commit or commits.
 
@@ -40,9 +40,13 @@ This guide is divided into three main parts:
 - [Issues](pages/github-issues)
 - [Markdown](pages/github-markdown)
 
-You can select one of the main points and then you will find more sub-points on the topic.
+![Overview of the guide]({{  'assets/images/index-guide-overview.png' | relative_url }})
 
-On the left side you can see an overview of all topics covered in the guide. You can also use the search that you will find at the top center: "Search Github-Guidance".
+| Color | Description |
+| ----- | ---- |
+| <span style="display:block; width:60px; height:15px; background-color:red;"></span> | This is the main navigation of the guide. You can select one of the main points and then you will find more sub-points |
+| <span style="display:block; width:60px; height:15px; background-color:blue;"></span> | You can also use the search that you will find at the top center: "Search Github-Guidance" |
+| <span style="display:block; width:60px; height:15px; background-color:green;"></span> | Sometimes there are several topics on one page. Then a table of contents appears, with which you are led then to a certain place. |
 
 ## License
 
