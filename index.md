@@ -54,7 +54,10 @@ Here's a quick overview of how to navigate the guide and find content.
 
 ## Partners and Founders
 
-![r0g Logo]({{  'assets/images/readme-r0g-logo.png' | relative_url }}){: .no-image-border }
+| r0g Agency | ASKnet | Open Source Ecology Germany |
+| :--------: | :----: | :-------------------------: |
+|[![r0g Logo]({{  'assets/images/partner-r0g-logo.png' | relative_url }}){: .no-image-border }](https://openculture.agency/)|[![#ASKnet Logo]({{  'assets/images/partner-asknet-logo.jpg' | relative_url }}){: .no-image-border }](https://github.com/ASKnet-Open-Training)| [![#ASKnet Logo]({{  'assets/images/partner-oseg-logo.png' | relative_url }}){: .no-image-border }](https://opensourceecology.de/) |
+| [Official Website](https://openculture.agency/) | [Official Website](https://github.com/ASKnet-Open-Training) | [Official Website](https://opensourceecology.de/) |
 
 ## License
 

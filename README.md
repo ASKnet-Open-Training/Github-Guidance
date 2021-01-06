@@ -66,7 +66,10 @@ Alternatively, you are welcome to [write us an issue](https://github.com/ASKnet-
 
 ## Partners and Founders
 
-![r0g Logo](assets/images/readme-r0g-logo.png)
+| r0g Agency | ASKnet | Open Source Ecology Germany |
+| :--------: | :----: | :-------------------------: |
+|[![r0g Logo](assets/images/partner-r0g-logo.png)](https://openculture.agency/)|[![#ASKnet Logo](assets/images/partner-asknet-logo.jpg)](https://github.com/ASKnet-Open-Training)| [![#ASKnet Logo](assets/images/partner-oseg-logo.png)](https://opensourceecology.de/) |
+| [Official Website](https://openculture.agency/) | [Official Website](https://github.com/ASKnet-Open-Training) | [Official Website](https://opensourceecology.de/) |
 
 ## License
 
