@@ -27,7 +27,7 @@ If you already know the basics of Git and Markdown, feel free to write content y
 
 ### Method 1 Get to the content via the HTML page (easier)
 
-You can switch from this repository to the HTML page: https://github.com/ASKnet-Open-Training/Github-Guidance
+You can switch from this repository to the HTML page: https://asknet-open-training.github.io/Github-Guidance/
 
 Then browse to your desired page and you'll find an "Edit this page on GitHub" link at the bottom of each page. Clicking on it will take you to the exact Markdown file you want to edit.
 
