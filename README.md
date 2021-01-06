@@ -29,7 +29,7 @@ If you already know the basics of Git and Markdown, feel free to write content y
 
 You can switch from this repository to the HTML page: https://asknet-open-training.github.io/Github-Guidance/
 
-Then browse to your desired page and you'll find an "Edit this page on GitHub" link at the bottom of each page. Clicking on it will take you to the exact Markdown file you want to edit.
+Then browse to your desired page and you'll find an `Edit this page on GitHub` link at the bottom of each page. Clicking on it will take you to the exact Markdown file you want to edit.
 
 ![Edit this page](assets/images/readme-edit-this-page.png)
 
