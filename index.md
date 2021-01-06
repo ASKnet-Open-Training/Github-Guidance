@@ -48,6 +48,10 @@ This guide is divided into four main parts:
 | <span style="display:block; width:60px; height:15px; background-color:blue;"></span> | You can also use the search that you will find at the top center: "Search Github-Guidance" |
 | <span style="display:block; width:60px; height:15px; background-color:green;"></span> | Sometimes there are several topics on one page. Then a table of contents appears, with which you are led then to a certain place. |
 
+## Partners and Founders
+
+![r0g Logo](assets/images/readme-r0g-logo.png)
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
