@@ -12,7 +12,7 @@ permalink: /
 The #ASKnet Github-Guidance gives you a jumpstart to use Github: Creating repositores, share your ideas projects and knowledge with others and grow up with your community.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/ASKnet-Open-Training/Github-Guidance){: .btn .fs-5 .mb-4 .mb-md-0 } [Create Issue](https://github.com/ASKnet-Open-Training/Github-Guidance/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub]({{ site.github.repository_url }}){: .btn .fs-5 .mb-4 .mb-md-0 } [Create Issue]({{ site.github.repository_url }}/issues/new){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -34,7 +34,7 @@ The content (text, images, PDF or other file types) is stored in a [repository](
 
 ## Getting started
 
-This guide is divided into three main parts:
+This guide is divided into four main parts:
 - [Account](pages/github-account)
 - [Repository](pages/github-repo)
 - [Issues](pages/github-issues)
