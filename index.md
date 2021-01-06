@@ -21,10 +21,10 @@ The #ASKnet Github-Guidance gives you a jumpstart to use Github: Creating reposi
 This guide is meant to introduce you to Github as easily as possible. By the way, this guide is also based on a Github repository ;)
 
 ### Contributors
-If you don't find what you're looking for, feel free to [create an issue](https://github.com/ASKnet-Open-Training/Github-Guidance/issues/new) and we'll expand the guide.
+If you don't find what you're looking for, feel free to [create an issue]({{ site.github.repository_url }}/issues/new) and we'll expand the guide.
 
 ### Developer
-If you would like to help extending the guide, feel free to fork [the repository](https://github.com/ASKnet-Open-Training/Github-Guidance) and send us a pull request.
+If you would like to help extending the guide, feel free to fork [the repository]({{ site.github.repository_url }}) and send us a pull request.
 
 ## First of all: What is Github?
 
@@ -50,7 +50,7 @@ This guide is divided into four main parts:
 
 ## Partners and Founders
 
-![r0g Logo](assets/images/readme-r0g-logo.png)
+![r0g Logo]({{  'assets/images/readme-r0g-logo.png' | relative_url }}){: .no-image-border }
 
 ## License
 
