@@ -40,6 +40,10 @@ This guide is divided into four main parts:
 - [Issues](pages/github-issues)
 - [Markdown](pages/github-markdown)
 
+### Guide overview
+
+Here's a quick overview of how to navigate the guide and find content.
+
 ![Overview of the guide]({{  'assets/images/index-guide-overview.png' | relative_url }})
 
 | Color | Description |
