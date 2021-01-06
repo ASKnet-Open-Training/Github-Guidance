@@ -2,7 +2,7 @@
 
 This repository includes a guide to help with using Github.This guide was created at one of the worldwide #ASKnet programs, which is about helping people to help themselves.  With Github or Git in the background, actions/projects or ideas can be documented wonderfully and archived in historical versions.This guide is from the beginning as a git repository about a git repository :)
 
-## --===<({   [Here it goes to the guide](https://github.com/ASKnet-Open-Training/Github-Guidance)})>===--
+## --===<({   [Here it goes to the guide](https://asknet-open-training.github.io/Github-Guidance)   })>===--
 
 There you find all information about how to use Github and get support
 
