@@ -2,7 +2,7 @@
 layout: default
 title: Upload images to Repo
 parent: Github Repository
-nav_order: 6
+nav_order: 7
 ---
 
 # Upload images to Repo

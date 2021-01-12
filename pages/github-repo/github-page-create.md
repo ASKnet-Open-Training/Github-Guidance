@@ -2,7 +2,7 @@
 layout: default
 title: Create a Github page
 parent: Github Repository
-nav_order: 13
+nav_order: 14
 ---
 
 # Create a Github page

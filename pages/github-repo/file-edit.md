@@ -2,7 +2,7 @@
 layout: default
 title: Edit a file
 parent: Github Repository
-nav_order: 4
+nav_order: 5
 ---
 
 # Edit a file (e.g. readme)
