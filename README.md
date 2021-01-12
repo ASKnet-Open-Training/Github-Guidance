@@ -46,7 +46,7 @@ You can go through the Git repository and mainly all the content for the guide c
 - assets -> [images](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/assets/images)
 - [pages](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/pages)
 
-You can ignore the other directories.
+You can ignore the other directories or files.
 
 ![Folders for the guide](assets/images/readme-folders-for-the-guide.png)
 
@@ -101,7 +101,7 @@ This works, but isn't very flexible and a very long URL. Better are relative lin
 
 This guide should be flexibly usable (e.g. without internet connection) and freely expandable. You can even use this guide on your computer without having access to the internet.
 
-Now we come to the relative links. The alternative are, as we have already learned, permalinks with a fixed URL. If images are now included with a permalink, then these images are not loaded from your local computer or your fork, but always from the main repository. If we now use relative links instead, then the images and all content will always be loaded from that repository, no matter where it is. Whether on your computer or your new fork repository.
+Now we come to the relative links. The alternative are, as we have already learned, permalinks with a fixed URL. If images are now included with a permalink, then these images are not loaded from your local computer or your fork, but always from the main repository on Github in the internet. If we now use relative links instead, then the images and all content will always be loaded from your repository, no matter where it is. Whether on your computer or your new fork repository.
 
 The code to include an image looks like this. You can ignore the cryptic characters `}`, `[`, `|`, etc. Just look at the path to your image: `assets/images/partner-asknet-logo.jpg`.
 
