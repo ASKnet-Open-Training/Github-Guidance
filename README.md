@@ -27,7 +27,7 @@ If you already know the basics of Git and Markdown, feel free to write content y
 
 ### Method 1 Get to the content via the HTML page (easier)
 
-You can switch from this repository to the HTML page: https://asknet-open-training.github.io/Github-Guidance/
+With this method, only already created manuals can be edited and no new ones can be created. To find the desired content, it is best to switch to the HTML page and search for the desired page there: https://asknet-open-training.github.io/Github-Guidance/
 
 Then browse to your desired page and you'll find an `Edit this page on GitHub` link at the bottom of each page. Clicking on it will take you to the exact Markdown file you want to edit.
 
@@ -39,30 +39,75 @@ Once you have reached the Markdown file, you can use the pen button to go into e
 
 ### Method 2 Use the Git Repository (advanced)
 
+With method 2 you can not only edit instructions, but also create them yourself and upload images.
+
 You can go through the Git repository and mainly all the content for the guide can be found in two directories:
 
-- assets -> images
-- pages
+- assets -> [images](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/assets/images)
+- [pages](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/pages)
 
 You can ignore the other directories.
 
 ![Folders for the guide](assets/images/readme-folders-for-the-guide.png)
 
-#### Pages
+### Pages
 
-In the `pages` directory you will find all pages sorted into the subfolders corresponding to the main points of the guide (e.g. github-account or github-repo).
+In the [pages](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/pages) directory you will find all pages sorted into the subfolders corresponding to the main points of the guide (e.g. github-account, github-repo or github-issues).
 
-#### Images
+In the desired folder you can either edit pages or create new pages.
 
-All images are uploaded to the [images](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/assets/images) directory. This directory is located in the parent directory [assets](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/assets). 
+To create a page you have to create a new Markdown file. You can use any name, but it must **not** contain special characters or spaces. At the end of a file must be `.md`
+
+Example: `image-upload.md`
+
+The following information must be entered at the top of the file:
+
+```
+---
+layout: default
+title: Upload images to Repo
+parent: Github Repository
+nav_order: 7
+---
+```
+
+Then save the page with a commit.
+
+### Images
+
+#### Where are the images located
+
+All images are uploaded to the [images](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/assets/images) directory. This directory is located in the parent directory `assets`. 
 
 The name of an image should be descriptive and not e.g. ~~IMG_345345345.jpg~~. It is recommended to use the name of the main topic (e.g. github-repo, github-account or github-isses) at the beginning and after `-` the name of your new manual.
 
 Example: `github-repo` `-` `create-new-repo` `.png` ([View images folder and upload images](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/assets/images))
 
-**Important:** Do not upload images that are too large, otherwise the entire repository would become too big.
+**Important:** Do not use spaces or special characters in file names and do not upload images that are too large. Otherwise the entire repository would become too big.
 
 Alternatively, you are welcome to [write us an issue](https://github.com/ASKnet-Open-Training/Github-Guidance/issues/new) and upload your desired image there. You just have to tell us on which page the image should be displayed ;)
+
+#### Insert image into Markdown file
+
+You can use the usual Markdown standards. Then the full URL including `https://...` must be used.
+
+```
+![ASKnet Logo](https://raw.githubusercontent.com/ASKnet-Open-Training/Github-Guidance/main/assets/images/partner-asknet-logo.jpg)
+```
+
+This works, but isn't very flexible and a very long URL. Better are relative links.
+
+##### Why are relative links better?
+
+This guide should be flexibly usable (e.g. without internet connection) and freely expandable. You can even use this guide on your computer without having access to the internet.
+
+Now we come to the relative links. The alternative are, as we have already learned, permalinks with a fixed URL. If images are now included with a permalink, then these images are not loaded from your local computer or your fork, but always from the main repository. If we now use relative links instead, then the images and all content will always be loaded from that repository, no matter where it is. Whether on your computer or your new fork repository.
+
+The code to include an image looks like this. You can ignore the cryptic characters `}`, `[`, `|`, etc. Just look at the path to your image: `assets/images/partner-asknet-logo.jpg`.
+
+```
+![ASKnet Logo]({{ 'assets/images/partner-asknet-logo.jpg' | relative_url }})
+```
 
 ## Partners and Founders
 
