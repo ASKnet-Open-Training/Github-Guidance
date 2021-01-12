@@ -54,15 +54,15 @@ In the `pages` directory you will find all pages sorted into the subfolders corr
 
 #### Images
 
-All images are uploaded to the `images` directory. This directory is located in the top directory `assets`. 
+All images are uploaded to the [images](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/assets/images) directory. This directory is located in the parent directory [assets](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/assets). 
 
-The name of an image should be descriptive and not e.g. ~~IMG_345345345.jpg~~. It is recommended to use the name of the main topic at the beginning and after a - the name of the current topic.
+The name of an image should be descriptive and not e.g. ~~IMG_345345345.jpg~~. It is recommended to use the name of the main topic (e.g. github-repo, github-account or github-isses) at the beginning and after `-` the name of your new manual.
 
-Example: `github-repo` `-` `create-new-repo` `.png`
+Example: `github-repo` `-` `create-new-repo` `.png` ([View images folder and upload images](https://github.com/ASKnet-Open-Training/Github-Guidance/tree/main/assets/images))
 
 **Important:** Do not upload images that are too large, otherwise the entire repository would become too big.
 
-Alternatively, you are welcome to [write us an issue](https://github.com/ASKnet-Open-Training/Github-Guidance/issues/new) and upload your desired image there. You just have to tell us on which page the image should be displayed ;) 
+Alternatively, you are welcome to [write us an issue](https://github.com/ASKnet-Open-Training/Github-Guidance/issues/new) and upload your desired image there. You just have to tell us on which page the image should be displayed ;)
 
 ## Partners and Founders
 
