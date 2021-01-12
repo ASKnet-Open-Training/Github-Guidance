@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Create repository
+title: Create a Github repository
 parent: Github Repository
 nav_order: 2
 ---
 
-# Create Github repository
+# Create a Github repository
 You can see in the upper right corner a + symbol. There you can create your own repository.
 
 1. TOC
