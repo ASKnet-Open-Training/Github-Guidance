@@ -81,7 +81,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "CC-BY-SA-4.0 #ASKnet Openculture-Agency. Distributed by an <a href=\"https://github.com/ASKnet-Open-Training/Github-Guidance/blob/main/LICENSE\">MIT license.</a>"
+footer_content: "CC-BY-SA-4.0 #ASKnet r0g_agency gGmbH. Distributed by a <a href=\"https://github.com/ASKnet-Open-Training/Github-Guidance/blob/main/LICENSE\">CC-BY-SA-4.0 License</a> and the theme by a <a href="https://github.com/pmarsceill/just-the-docs/blob/master/LICENSE.txt">MIT license</a>."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
