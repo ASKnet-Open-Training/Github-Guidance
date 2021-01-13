@@ -1,3 +1,12 @@
+---
+layout: default
+title: Fork a Repository
+parent: Github Repository
+nav_order: 9
+---
+
+# Fork a Repository
+
 Forking a repository is creating new copy of an existing repository. Forking allows you to freely edit a repository without affecting the original copy of the repository repository. 
 Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
 Forking a repository is a simple two-step process and the steps below will guide you to fork CloudApp-Application repository from https://github.com/PyGamma github accounts
