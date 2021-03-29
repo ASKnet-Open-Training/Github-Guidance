@@ -111,10 +111,10 @@ The code to include an image looks like this. You can ignore the cryptic charact
 
 ## Partners and Founders
 
-| r0g Agency | ASKnet | Open Source Ecology Germany |
-| :--------: | :----: | :-------------------------: |
-|[![r0g Logo](assets/images/partner-r0g-logo.png)](https://openculture.agency/)|[![#ASKnet Logo](assets/images/partner-asknet-logo.jpg)](https://github.com/ASKnet-Open-Training)| [![#ASKnet Logo](assets/images/partner-oseg-logo.png)](https://opensourceecology.de/) |
-| [Official Website](https://openculture.agency/) | [Official Website](https://github.com/ASKnet-Open-Training) | [Official Website](https://opensourceecology.de/) |
+| r0g_agency | ASKnet | BMZ |
+| :--------: | :----: | :-------: |
+|[![r0g_agency Logo](assets/images/partner-r0g-logo.png)](https://openculture.agency/)|[![#ASKnet Logo](assets/images/partner-asknet-logo.jpg)](https://github.com/ASKnet-Open-Training) | [![BMZ Logo](assets/images/founder_BMZ.jpg)](https://www.bmz.de/en/) |
+| [Official Website](https://openculture.agency/) | [Official Website](https://github.com/ASKnet-Open-Training) | [Official Website](https://www.bmz.de/en/) |
 
 ## License
 
