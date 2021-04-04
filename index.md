@@ -54,7 +54,7 @@ Here's a quick overview of how to navigate the guide and find content.
 
 ## Partners and Funders
 
-| r0g_agency | ASKnet | BMZ |
+| r0g_agency | #ASKnet | BMZ |
 | :--------: | :----: | :-------: |
 |[![r0g_agency Logo]({{  'assets/images/partner-r0g-logo.png' | relative_url }}){: .no-image-border }](https://openculture.agency/)|[![#ASKnet Logo]({{  'assets/images/partner-asknet-logo.jpg' | relative_url }}){: .no-image-border }](https://github.com/ASKnet-Open-Training) | [![BMZ Logo]({{  'assets/images/founder_BMZ.jpg' | relative_url }}){: .no-image-border }](https://www.bmz.de/en/) |
 | [Official Website](https://openculture.agency/) | [Official Website](https://github.com/ASKnet-Open-Training) | [Official Website](https://www.bmz.de/en/) |
