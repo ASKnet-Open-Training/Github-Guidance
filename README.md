@@ -109,7 +109,7 @@ The code to include an image looks like this. You can ignore the cryptic charact
 ![ASKnet Logo]({{ 'assets/images/partner-asknet-logo.jpg' | relative_url }})
 ```
 
-## Partners and Founders
+## Partners and Funder
 
 | r0g_agency | ASKnet | BMZ |
 | :--------: | :----: | :-------: |
