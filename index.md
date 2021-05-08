@@ -52,7 +52,7 @@ Here's a quick overview of how to navigate the guide and find content.
 | <span style="display:block; width:60px; height:15px; background-color:blue;"></span> | You can also use the search that you will find at the top center: "Search Github-Guidance" |
 | <span style="display:block; width:60px; height:15px; background-color:green;"></span> | Sometimes there are several topics on one page. Then a table of contents appears, with which you are led then to a certain place. |
 
-## Partners and Funders
+## Partners and Funder
 
 | r0g_agency | #ASKnet | BMZ |
 | :--------: | :----: | :-------: |
