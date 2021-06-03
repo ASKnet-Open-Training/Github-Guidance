@@ -1,6 +1,6 @@
 # #ASKnet Github-Guidance
 
-This repository includes a guide to help with using Github.This guide was created at one of the worldwide #ASKnet programs, which is about helping people to help themselves.  With Github or Git in the background, actions/projects or ideas can be documented wonderfully and archived in historical versions.This guide is from the beginning as a git repository about a git repository :)
+This repository includes a guide to help with using Github.This guide was created at one of the worldwide #ASKnet programs, which is about helping people to help themselves.  With Github or Git in the background, actions/projects or ideas can be documented wonderfully and archived in historical versions.This guide is a git repository about working with git repositories. 
 
 ## --===<({   [Github Guidance Here](https://asknet-open-training.github.io/Github-Guidance)   })>===--
 
